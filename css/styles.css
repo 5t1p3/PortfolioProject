@@ -128,7 +128,12 @@ p {
   }
 }
 /*  global classes */
-
+.newHead {
+  color: var(--clr-primary-4);
+  letter-spacing: 5px;
+  font-family: 0;
+  margin-bottom: 0;
+}
 .btn {
   text-transform: uppercase;
   background: var(--clr-primary-5);
